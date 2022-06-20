@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Android Smartwatch White",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "price": "100",
+    "category": "Smartwatch",
+    "img": "rachit-tank-2cFZ_FB08UM-unsplash.jpg",
+    "img-credit": "Rachit Tank",
+    "img-credit-link": "https://unsplash.com/@rachitank"
+  },
+  {
+    "id": "2",
+    "title": "Level Wireless Headphone Black",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "price": "80",
+    "category": "Headphone",
+    "img": "c-d-x-PvIz8BmuwDw-unsplash.jpg",
+    "img-credit": "C D-X",
+    "img-credit-link": "https://unsplash.com/@cdx2"
+  },
+  {
+    "id": "3",
+    "title": "Apple Watch Pink",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "price": "200",
+    "category": "Smartwatch",
+    "img": "david-svihovec-v8BDEj9bfcs-unsplash.jpg",
+    "img-credit": "David Svihovec",
+    "img-credit-link": "https://unsplash.com/@iamdavid_10"
+  },
+  {
+    "id": "4",
+    "title": "White Beats Headphone",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "price": "150",
+    "category": "Headphone",
+    "img": "adam-birkett-vISNAATFXlE-unsplash.jpg",
+    "img-credit": "Adam Birkett",
+    "img-credit-link": "https://unsplash.com/@abrkett"
+  },
+  {
+    "id": "5",
+    "title": "Apple Airpods White",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "price": "180",
+    "category": "Headphone",
+    "img": "alejandro-luengo-CCbxJI3Y2xA-unsplash.jpg",
+    "img-credit": "Alejandro Luengo",
+    "img-credit-link": "https://unsplash.com/@aluengo91"
+  },
+  {
+    "id": "6",
+    "title": "Gold Beats Headphone",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "price": "120",
+    "category": "Headphone",
+    "img": "alexunder-hess-bWZAPKm0zZE-unsplash.jpg",
+    "img-credit": "Alexunder Hess",
+    "img-credit-link": "https://unsplash.com/@alexunderhess"
+  },
+  {
+    "id": "7",
+    "title": "Grey and Black Hiking Backpack",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "price": "50",
+    "category": "Backpack",
+    "img": "josiah-weiss-8sjBzL1IyMo-unsplash.jpg",
+    "img-credit": "Josiah Weiss",
+    "img-credit-link": "https://unsplash.com/@jsweissphoto"
+  },
+  {
+    "id": "8",
+    "title": "Brown Leather Backpack",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "price": "70",
+    "category": "Backpack",
+    "img": "jonathan-borba-k3n8TN5WwJk-unsplash.jpg",
+    "img-credit": "Jonathan Borba",
+    "img-credit-link": "https://unsplash.com/@jonathanborba"
+  }
+]
