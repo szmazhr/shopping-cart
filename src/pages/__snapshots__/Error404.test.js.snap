@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error404 renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="error-404"
+  >
+    <h1>
+      404
+    </h1>
+    <p>
+      Page not found
+    </p>
+    <a
+      class="btn"
+      href="/"
+    >
+      Home
+    </a>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,38 @@
+.shop{
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  padding: 15px;
+  grid-template-areas: 'category products';
+}
+.shop .categories{
+  grid-area: category;
+  padding: 0 10px;
+
+}
+.shop .categories h3{
+  margin: 0;
+}
+.shop .categories ul{
+  list-style: none;
+  padding-left: 0px;
+  line-height: 1.3rem;
+}
+.shop .categories li{
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.shop .categories li.active{
+  color: rgb(0, 131, 87);
+  font-weight: 700;
+}
+.shop .categories li:hover{
+  color: rgb(0, 131, 87);
+}
+.shop .products{
+  grid-area: products;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}

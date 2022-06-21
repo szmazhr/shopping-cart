@@ -1,0 +1,43 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px !important;
+}
+
+.footer {
+  width: 100%;
+  background-color: rgb(233, 233, 233);
+  color: rgb(27, 27, 27);
+  height: 60px;
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 60px;
+  font-size: 1.2rem;
+
+  
+}
+.footer a {
+  color: rgb(27, 27, 27);
+}
+.repo_link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.repo_link a {
+  text-decoration: none;
+  display: contents;
+}
+
+.repo_link a img{
+transition: filter 0.3s ease-in-out;
+}
+.repo_link a:hover img{
+  filter: invert(88%) sepia(19%) saturate(841%) hue-rotate(96deg) brightness(98%) contrast(106%);
+}

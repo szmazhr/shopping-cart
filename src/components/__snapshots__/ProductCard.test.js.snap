@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductCard renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="product-card"
+  >
+    <div
+      class="product-card-img"
+    >
+      <img
+        alt="Product 1"
+        loading="lazy"
+        src="https://via.placeholder.com/300"
+      />
+    </div>
+    <div
+      class="product-card-info"
+    >
+      <a
+        href="/product/10"
+      >
+        <h3
+          class="product-card-title"
+        >
+          Product 1
+        </h3>
+      </a>
+      <div
+        class="product-card-footer"
+      >
+        <p
+          class="product-card-price"
+        >
+          $10
+        </p>
+        <button
+          class="product-card-btn"
+        >
+          Add to Cart
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
