@@ -26,7 +26,7 @@
   },
   "author": "Shahzar Mazhar <mohdshahzar.1996@gmail.com> (http://t.co/szmazhr/)",
   "license": "MIT",
-  "homepage": "https://szmazhr.github.io/shoppinig-cart",
+  "homepage": "https://szmazhr.github.io/shopping-cart",
   "eslintConfig": {
     "extends": [
       "react-app",
