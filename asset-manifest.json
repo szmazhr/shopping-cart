@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shoppinig-cart/static/css/main.2831b60f.css",
-    "main.js": "/shoppinig-cart/static/js/main.e751c9b4.js",
+    "main.js": "/shoppinig-cart/static/js/main.4b379d2b.js",
     "static/js/787.d6fe38e8.chunk.js": "/shoppinig-cart/static/js/787.d6fe38e8.chunk.js",
     "static/media/josiah-weiss-8sjBzL1IyMo-unsplash.jpg": "/shoppinig-cart/static/media/josiah-weiss-8sjBzL1IyMo-unsplash.5dfa428dc2d982310559.jpg",
     "static/media/jonathan-borba-k3n8TN5WwJk-unsplash.jpg": "/shoppinig-cart/static/media/jonathan-borba-k3n8TN5WwJk-unsplash.29054933a96f3b639384.jpg",
@@ -16,11 +16,11 @@
     "static/media/cart.svg": "/shoppinig-cart/static/media/cart.9715b7a4f7df94b4560b3623cdb75978.svg",
     "static/media/heart.svg": "/shoppinig-cart/static/media/heart.092af352658661a61b5b05b87a913567.svg",
     "main.2831b60f.css.map": "/shoppinig-cart/static/css/main.2831b60f.css.map",
-    "main.e751c9b4.js.map": "/shoppinig-cart/static/js/main.e751c9b4.js.map",
+    "main.4b379d2b.js.map": "/shoppinig-cart/static/js/main.4b379d2b.js.map",
     "787.d6fe38e8.chunk.js.map": "/shoppinig-cart/static/js/787.d6fe38e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2831b60f.css",
-    "static/js/main.e751c9b4.js"
+    "static/js/main.4b379d2b.js"
   ]
 }
