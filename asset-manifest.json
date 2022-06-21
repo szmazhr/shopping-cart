@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/shoppinig-cart/static/css/main.2831b60f.css",
-    "main.js": "/shoppinig-cart/static/js/main.4b379d2b.js",
-    "static/js/787.d6fe38e8.chunk.js": "/shoppinig-cart/static/js/787.d6fe38e8.chunk.js",
-    "static/media/josiah-weiss-8sjBzL1IyMo-unsplash.jpg": "/shoppinig-cart/static/media/josiah-weiss-8sjBzL1IyMo-unsplash.5dfa428dc2d982310559.jpg",
-    "static/media/jonathan-borba-k3n8TN5WwJk-unsplash.jpg": "/shoppinig-cart/static/media/jonathan-borba-k3n8TN5WwJk-unsplash.29054933a96f3b639384.jpg",
-    "static/media/adam-birkett-vISNAATFXlE-unsplash.jpg": "/shoppinig-cart/static/media/adam-birkett-vISNAATFXlE-unsplash.0c9af95b471c28673af5.jpg",
-    "static/media/c-d-x-PvIz8BmuwDw-unsplash.jpg": "/shoppinig-cart/static/media/c-d-x-PvIz8BmuwDw-unsplash.8201d65ef1ed78dce560.jpg",
-    "static/media/alejandro-luengo-CCbxJI3Y2xA-unsplash.jpg": "/shoppinig-cart/static/media/alejandro-luengo-CCbxJI3Y2xA-unsplash.eebb6fbbb82ab9280e38.jpg",
-    "static/media/alexunder-hess-bWZAPKm0zZE-unsplash.jpg": "/shoppinig-cart/static/media/alexunder-hess-bWZAPKm0zZE-unsplash.c87bb7481a40cef64d1e.jpg",
-    "static/media/david-svihovec-v8BDEj9bfcs-unsplash.jpg": "/shoppinig-cart/static/media/david-svihovec-v8BDEj9bfcs-unsplash.e58a4e8e118afbadb80b.jpg",
-    "static/media/rachit-tank-2cFZ_FB08UM-unsplash.jpg": "/shoppinig-cart/static/media/rachit-tank-2cFZ_FB08UM-unsplash.be6bce80c539b3222473.jpg",
-    "index.html": "/shoppinig-cart/index.html",
-    "static/media/github.svg": "/shoppinig-cart/static/media/github.22e65707326e3e1e37afd21c5334995a.svg",
-    "static/media/cart.svg": "/shoppinig-cart/static/media/cart.9715b7a4f7df94b4560b3623cdb75978.svg",
-    "static/media/heart.svg": "/shoppinig-cart/static/media/heart.092af352658661a61b5b05b87a913567.svg",
-    "main.2831b60f.css.map": "/shoppinig-cart/static/css/main.2831b60f.css.map",
-    "main.4b379d2b.js.map": "/shoppinig-cart/static/js/main.4b379d2b.js.map",
-    "787.d6fe38e8.chunk.js.map": "/shoppinig-cart/static/js/787.d6fe38e8.chunk.js.map"
+    "main.css": "/shopping-cart/static/css/main.2831b60f.css",
+    "main.js": "/shopping-cart/static/js/main.6208ba12.js",
+    "static/js/787.d6fe38e8.chunk.js": "/shopping-cart/static/js/787.d6fe38e8.chunk.js",
+    "static/media/josiah-weiss-8sjBzL1IyMo-unsplash.jpg": "/shopping-cart/static/media/josiah-weiss-8sjBzL1IyMo-unsplash.5dfa428dc2d982310559.jpg",
+    "static/media/jonathan-borba-k3n8TN5WwJk-unsplash.jpg": "/shopping-cart/static/media/jonathan-borba-k3n8TN5WwJk-unsplash.29054933a96f3b639384.jpg",
+    "static/media/adam-birkett-vISNAATFXlE-unsplash.jpg": "/shopping-cart/static/media/adam-birkett-vISNAATFXlE-unsplash.0c9af95b471c28673af5.jpg",
+    "static/media/c-d-x-PvIz8BmuwDw-unsplash.jpg": "/shopping-cart/static/media/c-d-x-PvIz8BmuwDw-unsplash.8201d65ef1ed78dce560.jpg",
+    "static/media/alejandro-luengo-CCbxJI3Y2xA-unsplash.jpg": "/shopping-cart/static/media/alejandro-luengo-CCbxJI3Y2xA-unsplash.eebb6fbbb82ab9280e38.jpg",
+    "static/media/alexunder-hess-bWZAPKm0zZE-unsplash.jpg": "/shopping-cart/static/media/alexunder-hess-bWZAPKm0zZE-unsplash.c87bb7481a40cef64d1e.jpg",
+    "static/media/david-svihovec-v8BDEj9bfcs-unsplash.jpg": "/shopping-cart/static/media/david-svihovec-v8BDEj9bfcs-unsplash.e58a4e8e118afbadb80b.jpg",
+    "static/media/rachit-tank-2cFZ_FB08UM-unsplash.jpg": "/shopping-cart/static/media/rachit-tank-2cFZ_FB08UM-unsplash.be6bce80c539b3222473.jpg",
+    "index.html": "/shopping-cart/index.html",
+    "static/media/github.svg": "/shopping-cart/static/media/github.22e65707326e3e1e37afd21c5334995a.svg",
+    "static/media/cart.svg": "/shopping-cart/static/media/cart.9715b7a4f7df94b4560b3623cdb75978.svg",
+    "static/media/heart.svg": "/shopping-cart/static/media/heart.092af352658661a61b5b05b87a913567.svg",
+    "main.2831b60f.css.map": "/shopping-cart/static/css/main.2831b60f.css.map",
+    "main.6208ba12.js.map": "/shopping-cart/static/js/main.6208ba12.js.map",
+    "787.d6fe38e8.chunk.js.map": "/shopping-cart/static/js/787.d6fe38e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2831b60f.css",
-    "static/js/main.4b379d2b.js"
+    "static/js/main.6208ba12.js"
   ]
 }
